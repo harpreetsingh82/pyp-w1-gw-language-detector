@@ -1,4 +1,5 @@
 """This file contains the definition of all languages supported by the program."""
+# -*- coding: utf-8 -*-
 
 LANGUAGES = [
     {
